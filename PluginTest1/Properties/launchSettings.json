@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "PluginTest1": {
+      "commandName": "Project"
+    },
+    "PluginTest1Executable": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Autodesk\\Revit 2023\\Revit.exe"
+    }
+  }
+}

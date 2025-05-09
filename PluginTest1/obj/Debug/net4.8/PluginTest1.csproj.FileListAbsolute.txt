@@ -1,0 +1,9 @@
+C:\Users\PC2\source\repos\PluginTest1\obj\Debug\net4.8\PluginTest1.csproj.AssemblyReference.cache
+C:\Users\PC2\source\repos\PluginTest1\obj\Debug\net4.8\PluginTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC2\source\repos\PluginTest1\obj\Debug\net4.8\PluginTest1.AssemblyInfoInputs.cache
+C:\Users\PC2\source\repos\PluginTest1\obj\Debug\net4.8\PluginTest1.AssemblyInfo.cs
+C:\Users\PC2\source\repos\PluginTest1\obj\Debug\net4.8\PluginTest1.csproj.CoreCompileInputs.cache
+C:\Users\PC2\source\repos\PluginTest1\bin\Debug\net4.8\PluginTest1.dll
+C:\Users\PC2\source\repos\PluginTest1\bin\Debug\net4.8\PluginTest1.pdb
+C:\Users\PC2\source\repos\PluginTest1\obj\Debug\net4.8\PluginTest1.dll
+C:\Users\PC2\source\repos\PluginTest1\obj\Debug\net4.8\PluginTest1.pdb
